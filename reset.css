@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body, html{
+    margin: 0px auto;
+    background-color: papayawhip;
+}
+
+html{
+    width: 100%;
+}
+
+body{
+    width: 100%;
+    background-color: white;
+}
+img{
+    width: 30em;
+    margin-top: 1em;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
